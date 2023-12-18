@@ -2,7 +2,7 @@
 
 <br>
 <div align="center">
-<img src="https://raw.githubusercontent.com/fugoou/fugoou/main/4f107dd2e8b2f06f4bc35bbb99cb3642.gif">
+<img src="https://raw.githubusercontent.com/fugoou/fugoou/main/75f0aaa07843f3c35917e300e963ce37.gif">
 </div>
 <br>
 
