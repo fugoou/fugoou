@@ -1,4 +1,4 @@
-<h1 align="center">Yahoo~</h1>
+<h1 align="center">Yahoo Minna~</h1>
 
 <br>
 <div align="center">
@@ -37,12 +37,15 @@ main = do
   putStrLn $ "One of my favorite quotes: \"" ++ quote fugoou ++ "\""
   putStrLn $ "Let's connect on my social network: " ++ socialNetwork fugoou
 </pre>
-<p align="center">
-	<img width="625em" src="./github-metrics.svg" />
-</p>
+
 <p align="center">
   <a href="https://open.spotify.com/user/31jq7g4rf7d3u6guzx5uqzor5qrq?si=aUS6tB5iSpmNcOq2kkJDGA" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
 </p>
+
 <div align="center">
   <img align="center" alt="count" src="https://count.getloli.com/get/@:fugoou?theme=asoul">
 </div>
+
+<p align="center">
+	<img width="625em" src="./github-metrics.svg" />
+</p>
