@@ -21,7 +21,7 @@ data Person = Person
 fugoou :: Person
 fugoou = Person
   { name = "Nicko Fajar"
-  , hobby = ["Watching Anime", "Reading Manga"]
+  , hobby = ["Watching Anime", "Reading Manga", "Reading Novel"]
   , status = "Student"
   , origin = "Indonesia"
   , quote = "Nothing is easy, but nothing is impossible."
