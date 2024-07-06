@@ -1,4 +1,4 @@
-<h1 align="center">Yahoo Minna~</h1>
+<h1 align="center">who am i?</h1>
 
 ```hs
 module Main where
