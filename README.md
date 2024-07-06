@@ -1,12 +1,6 @@
 <h1 align="center">Yahoo Minna~</h1>
 
-<br>
-<div align="center">
-<img src="https://raw.githubusercontent.com/fugoou/fugoou/main/75f0aaa07843f3c35917e300e963ce37.gif">
-</div>
-<br>
-
-<pre>
+```hs
 module Main where
 
 data Person = Person
@@ -25,6 +19,7 @@ fugoou = Person
   , status = "Student"
   , origin = "Indonesia"
   , quote = "Nothing is easy, but nothing is impossible."
+  , socialNetwork = "Connect with me on https://himote.xyz"
   }
 
 main :: IO ()
@@ -35,7 +30,7 @@ main = do
   mapM_ putStrLn $ map (\h -> "- " ++ h) (hobby fugoou)
   putStrLn $ "One of my favorite quotes: \"" ++ quote fugoou ++ "\""
   putStrLn $ "Let's connect on my social network: " ++ socialNetwork fugoou
-</pre>
+```
 
 <p align="center">
   <a href="https://open.spotify.com/user/31jq7g4rf7d3u6guzx5uqzor5qrq?si=aUS6tB5iSpmNcOq2kkJDGA" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
@@ -47,4 +42,3 @@ main = do
 
 <p align="center">
 	<img width="625em" src="./github-metrics.svg" />
-</p>
