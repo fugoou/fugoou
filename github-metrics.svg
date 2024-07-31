@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2480" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2497" class="">
     <defs>
         <style/>
     </defs>
@@ -363,12 +363,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 78 commits)</small>
+                    <small class="h-details">(computed from last 80 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 243.3 characters per line of code written</li>
+                        <li>Has approximately 248.0 characters per line of code written</li>
                         <li>Mostly pushes code around 16:00</li>
                         <li>Mostly active on Wednesday</li>
                     </ul>
@@ -1438,7 +1438,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>EveSunMaple/Frosti</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A clean, elegant, and fast static blog template! 🚀 Build with Astro</div>
@@ -1491,7 +1491,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>walinejs/waline</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">💬 A Simple, Safe Comment System</div>
@@ -1895,6 +1895,123 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
+                                        <div class="sha">#07ae988</div>
+                                        <div class="message">Merge pull request #15 from fugoou/dependabot/npm_and_yarn/react-router-dom-6.25.1
+
+Bump react-router-dom from 5.0.0 to 6.25.1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#304ccb5</div>
+                                        <div class="message">Bump react-router-dom from 5.0.0 to 6.25.1
+
+Bumps [react-router-dom](https://github.com/remix-run/react-router/tree/HEAD/packages/react-router-dom) from 5.0.0 to 6.25.1.
+- [Release notes](https://github.com/remix-run/react-router/releases)
+- [Changelog](https://github.com/remix-run/react-router/blob/main/packages/react-router-dom/CHANGELOG.md)
+- [Commits](https://github.com/remix-run/react-router/commits/react-router-dom@6.25.1/packages/react-router-dom)
+
+---
+updated-dependencies:
+- dependency-name: react-router-dom
+  dependency-type: direct:production
+  update-type: version-update:semver-major
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">fugoou/TheFallRivers</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#144124f</div>
+                                        <div class="message">Merge pull request #18 from fugoou/dependabot/npm_and_yarn/sass-1.77.8
+
+Bump sass from 1.63.4 to 1.77.8</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a62ad7a</div>
+                                        <div class="message">Bump sass from 1.63.4 to 1.77.8
+
+Bumps [sass](https://github.com/sass/dart-sass) from 1.63.4 to 1.77.8.
+- [Release notes](https://github.com/sass/dart-sass/releases)
+- [Changelog](https://github.com/sass/dart-sass/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/sass/dart-sass/compare/1.63.4...1.77.8)
+
+---
+updated-dependencies:
+- dependency-name: sass
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">fugoou/TheFallRivers</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#decfbbb</div>
+                                        <div class="message">Merge pull request #19 from fugoou/dependabot/npm_and_yarn/url-parse-1.5.10
+
+Bump url-parse from 1.4.7 to 1.5.10</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#954d4d6</div>
+                                        <div class="message">Bump url-parse from 1.4.7 to 1.5.10
+
+Bumps [url-parse](https://github.com/unshiftio/url-parse) from 1.4.7 to 1.5.10.
+- [Commits](https://github.com/unshiftio/url-parse/compare/1.4.7...1.5.10)
+
+---
+updated-dependencies:
+- dependency-name: url-parse
+  dependency-type: indirect
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">fugoou/TheFallRivers</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
                                         <div class="sha">#b824ad7</div>
                                         <div class="message">Merge pull request #17 from fugoou/dependabot/npm_and_yarn/react-popper-2.3.0
 
@@ -1953,105 +2070,6 @@ updated-dependencies:
 - dependency-name: "@popperjs/core"
   dependency-type: direct:production
   update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">fugoou/TheFallRivers</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#2b2dee7</div>
-                                        <div class="message">Merge pull request #14 from fugoou/dependabot/npm_and_yarn/sass-loader-16.0.0
-
-Bump sass-loader from 7.1.0 to 16.0.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3bd0263</div>
-                                        <div class="message">Bump sass-loader from 7.1.0 to 16.0.0
-
-Bumps [sass-loader](https://github.com/webpack-contrib/sass-loader) from 7.1.0 to 16.0.0.
-- [Release notes](https://github.com/webpack-contrib/sass-loader/releases)
-- [Changelog](https://github.com/webpack-contrib/sass-loader/blob/v16.0.0/CHANGELOG.md)
-- [Commits](https://github.com/webpack-contrib/sass-loader/compare/v7.1.0...v16.0.0)
-
----
-updated-dependencies:
-- dependency-name: sass-loader
-  dependency-type: direct:production
-  update-type: version-update:semver-major
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">fugoou/TheFallRivers</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#04f9624</div>
-                                        <div class="message">Create dependabot.yml</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">fugoou/TheFallRivers</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#68257a1</div>
-                                        <div class="message">Merge pull request #11 from fugoou/dependabot/npm_and_yarn/async-2.6.4
-
-Bump async from 2.6.2 to 2.6.4</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e53c13d</div>
-                                        <div class="message">Bump async from 2.6.2 to 2.6.4
-
-Bumps [async](https://github.com/caolan/async) from 2.6.2 to 2.6.4.
-- [Release notes](https://github.com/caolan/async/releases)
-- [Changelog](https://github.com/caolan/async/blob/v2.6.4/CHANGELOG.md)
-- [Commits](https://github.com/caolan/async/compare/v2.6.2...v2.6.4)
-
----
-updated-dependencies:
-- dependency-name: async
-  dependency-type: indirect
 ...
 
 Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
@@ -3031,7 +3049,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 31 Jul 2024, 17:09:25 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 31 Jul 2024, 18:09:14 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
