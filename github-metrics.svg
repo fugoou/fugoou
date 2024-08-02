@@ -1405,7 +1405,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fugoou/TheFallRivers</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1509,7 +1509,7 @@
                                         <span>starred 2 days ago</span>
                                     </div>
                                 </div>
-                                <div class="field description">A clean, elegant, and fast static blog template! 🚀 Build with Astro</div>
+                                <div class="field description">A clean, elegant, and fast static blog template! 🚀 Developed with Astro</div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2900,7 +2900,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Aug 2024, 19:19:53 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 Aug 2024, 20:14:01 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
