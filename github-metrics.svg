@@ -1411,7 +1411,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ZOASR/lastfm-viewer-react</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A React component to view recent scrobbles for a last.fm user</div>
@@ -2604,7 +2604,7 @@ feat: add a new real user: Remote Jobs &amp; Cooperation</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.34m out of 212m repositories</span>
+                                    <span class="gh">ranked 5.34m out of 205m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
@@ -2934,7 +2934,7 @@ feat: add a new real user: Remote Jobs &amp; Cooperation</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Aug 2024, 17:11:57 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 16 Aug 2024, 18:10:45 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
