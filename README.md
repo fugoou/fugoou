@@ -19,7 +19,7 @@ fugoou = Person
   , status = "Student"
   , origin = "Indonesia"
   , quote = "Nothing is easy, but nothing is impossible."
-  , socialNetwork = "Connect with me on https://fugoou.xyz"
+  , socialNetwork = "Connect with me on https://himote.xyz"
   }
 
 main :: IO ()
