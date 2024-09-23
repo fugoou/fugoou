@@ -1422,7 +1422,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>instaloader/instaloader</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Download pictures (or videos) along with their captions and other metadata from Instagram.</div>
@@ -1475,7 +1475,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>yt-dlp/yt-dlp</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A feature-rich command-line audio/video downloader</div>
@@ -2910,7 +2910,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Sept 2024, 15:16:25 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Sept 2024, 16:15:09 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
