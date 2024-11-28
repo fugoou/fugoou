@@ -37,7 +37,7 @@ main = do
 </p>
 
 <div align="center">
-  <img align="center" alt="count" src="https://count.getloli.com/get/@:fugoou?theme=asoul">
+  <img align="center" alt="count" src="https://count.getloli.com/get/@:fugoou?theme=booru-lewd">
 </div>
 
 <p align="center">
