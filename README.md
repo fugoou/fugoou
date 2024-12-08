@@ -9,7 +9,7 @@ data Person = Person
   , status :: String
   , origin :: String
   , quote :: String
-  , socialNetwork :: String
+  , website :: String
   }
 
 fugoou :: Person
@@ -19,7 +19,7 @@ fugoou = Person
   , status = "Student"
   , origin = "Indonesia"
   , quote = "Nothing is easy, but nothing is impossible."
-  , socialNetwork = "Connect with me on https://himote.xyz"
+  , website = "https://himote.xyz"
   }
 
 main :: IO ()
@@ -29,7 +29,7 @@ main = do
   putStrLn "My Hobbies include:"
   mapM_ putStrLn $ map (\h -> "- " ++ h) (hobby fugoou)
   putStrLn $ "One of my favorite quotes: \"" ++ quote fugoou ++ "\""
-  putStrLn $ "Let's connect on my social network: " ++ socialNetwork fugoou
+  putStrLn $ "Visit my website: " ++ website fugoou
 ```
 
 <p align="center">
