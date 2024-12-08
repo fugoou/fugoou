@@ -19,7 +19,7 @@ fugoou = Person
   , status = "Student"
   , origin = "Indonesia"
   , quote = "Nothing is easy, but nothing is impossible."
-  , website = "https://himote.xyz"
+  , website = "Website: https://himote.xyz"
   }
 
 main :: IO ()
