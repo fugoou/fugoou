@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            672 Commits
+                            675 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -279,14 +279,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="260.73330382412513" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="260.73330382412513" y="0" width="87.9271122557107" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="348.66041607983584" y="0" width="46.587394202781915" height="8" fill="#ff5a03"/>
-                    <rect mask="url(#languages-bar)" x="395.24781028261776" y="0" width="41.08365860528751" height="8" fill="#aace60"/>
-                    <rect mask="url(#languages-bar)" x="436.33146888790526" y="0" width="9.930787493461029" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="446.2622563813663" y="0" width="7.576891607312918" height="8" fill="#ef7a08"/>
-                    <rect mask="url(#languages-bar)" x="453.8391479886792" y="0" width="5.300122060815795" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="459.13927004949505" y="0" width="0.8607299505050098" height="8" fill="#dc566d"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="263.153194336785" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="263.153194336785" y="0" width="86.85932727790697" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="350.012521614692" y="0" width="46.02163788020326" height="8" fill="#ff5a03"/>
+                    <rect mask="url(#languages-bar)" x="396.0341594948953" y="0" width="40.58473953053883" height="8" fill="#aace60"/>
+                    <rect mask="url(#languages-bar)" x="436.61889902543413" y="0" width="9.810188221731957" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="446.4290872471661" y="0" width="7.484877997071665" height="8" fill="#ef7a08"/>
+                    <rect mask="url(#languages-bar)" x="453.9139652442377" y="0" width="5.235757491436939" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="459.1497227356747" y="0" width="0.8502772643253235" height="8" fill="#dc566d"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1433,7 +1433,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jjunlob074/ASTRObash</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1540,7 +1540,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>saicaca/hexo-theme-vivia</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A clean and minimalist theme for Hexo.</div>
@@ -2128,7 +2128,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 15.3m out of 149m users</span>
+                                    <span class="gh">ranked 15.3m out of 151m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">4</div>
                                     </div>
@@ -2183,7 +2183,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 493k out of 149m users</span>
+                                    <span class="gh">ranked 493k out of 151m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">31</div>
                                     </div>
@@ -2945,7 +2945,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Dec 2024, 17:14:53 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 Dec 2024, 18:11:46 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
