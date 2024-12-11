@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            678 Commits
+                            682 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -279,14 +279,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="262.1319925412893" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="262.1319925412893" y="0" width="87.30993606819392" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="349.4419286094832" y="0" width="46.260388918486946" height="8" fill="#ff5a03"/>
-                    <rect mask="url(#languages-bar)" x="395.7023175279702" y="0" width="40.79528502930208" height="8" fill="#aace60"/>
-                    <rect mask="url(#languages-bar)" x="436.4976025572723" y="0" width="9.861081513052744" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="446.358684070325" y="0" width="7.523708044752264" height="8" fill="#ef7a08"/>
-                    <rect mask="url(#languages-bar)" x="453.88239211507727" y="0" width="5.262919552477357" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="459.14531166755467" y="0" width="0.8546883324453916" height="8" fill="#dc566d"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="264.8302635381907" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="264.8302635381907" y="0" width="86.11931474815418" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="350.94957828634483" y="0" width="45.629548858351505" height="8" fill="#ff5a03"/>
+                    <rect mask="url(#languages-bar)" x="396.5791271446963" y="0" width="40.238971071231504" height="8" fill="#aace60"/>
+                    <rect mask="url(#languages-bar)" x="436.8180982159278" y="0" width="9.726608686513046" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="446.5447069024409" y="0" width="7.421109330250401" height="8" fill="#ef7a08"/>
+                    <rect mask="url(#languages-bar)" x="453.9658162326913" y="0" width="5.191150581991119" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="459.15696681468245" y="0" width="0.8430331853175332" height="8" fill="#dc566d"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1438,7 +1438,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>TheSpeedX/PROXY-List</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Get PROXY List  that gets updated everyday</div>
@@ -2938,7 +2938,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Dec 2024, 09:58:11 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Dec 2024, 10:33:16 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
