@@ -1443,7 +1443,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fugoou/web</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1491,7 +1491,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tursodatabase/libsql</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">libSQL is a fork of SQLite that is both Open Source, and Open Contributions.</div>
@@ -1544,7 +1544,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lovell/sharp</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.</div>
@@ -1597,7 +1597,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>xstevenyung/astro-htmx</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Easily install HTMX into your Astro project</div>
@@ -2940,7 +2940,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Jan 2025, 23:14:47 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Jan 2025, 00:11:27 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
