@@ -1416,7 +1416,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>unpkg/unpkg</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The CDN for everything on npm</div>
@@ -1469,7 +1469,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jonasmerlin/astro-seo</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Makes it easy to add information that is relevant for SEO to your Astro app.</div>
@@ -2918,7 +2918,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Feb 2025, 19:20:35 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Feb 2025, 20:14:02 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
