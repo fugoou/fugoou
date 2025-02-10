@@ -34,8 +34,5 @@ main = do
 
 <div align="center">
 	<img align="center" alt="count" src="https://count.getloli.com/get/@:fugoou?theme=booru-lewd">
-</div>
-
-<div align="center">
 	<img width="625em" src="./github-metrics.svg" />
 </div>
