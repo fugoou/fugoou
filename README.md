@@ -14,7 +14,7 @@ data Person = Person
 
 fugoou :: Person
 fugoou = Person
-  { name = "Nicko Fajar"
+  { name = "nick a.k.a fugoou"
   , hobby = ["Watching Anime", "Reading Manga", "Reading Novel"]
   , status = "Student"
   , origin = "Indonesia"
