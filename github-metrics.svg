@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            976 Commits
+                            978 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -279,14 +279,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="139.75132648040534" height="8" fill="#ff5a03"/>
-                    <rect mask="url(#languages-bar)" x="139.75132648040534" y="0" width="129.81409327251694" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="269.56541975292225" y="0" width="87.1717709012088" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="356.73719065413104" y="0" width="40.730727802231414" height="8" fill="#aace60"/>
-                    <rect mask="url(#languages-bar)" x="397.46791845636244" y="0" width="34.07532015053392" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="431.5432386068964" y="0" width="20.091623558823922" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="451.63486216572034" y="0" width="7.5118020186438645" height="8" fill="#ef7a08"/>
-                    <rect mask="url(#languages-bar)" x="459.14666418436417" y="0" width="0.8533358156358462" height="8" fill="#dc566d"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="139.48114526069187" height="8" fill="#ff5a03"/>
+                    <rect mask="url(#languages-bar)" x="139.48114526069187" y="0" width="129.93850413300146" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="269.41964939369336" y="0" width="87.25531433439376" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="356.6749637280871" y="0" width="40.769763200979675" height="8" fill="#aace60"/>
+                    <rect mask="url(#languages-bar)" x="397.4447269290668" y="0" width="34.10797715867797" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="431.55270408774476" y="0" width="20.074141121035048" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="451.6268452087798" y="0" width="7.519001158039055" height="8" fill="#ef7a08"/>
+                    <rect mask="url(#languages-bar)" x="459.1458463668189" y="0" width="0.8541536331811466" height="8" fill="#dc566d"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1428,7 +1428,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>unjs/unifont</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Framework agnostic tools for accessing data from font CDNs and providers</div>
@@ -1481,7 +1481,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rwf2/Rocket</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A web framework for Rust.</div>
@@ -1534,7 +1534,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rust-lang/cargo</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Rust package manager</div>
@@ -1587,7 +1587,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rust-lang/rust</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Empowering everyone to build reliable and efficient software.</div>
@@ -1987,7 +1987,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 May 2025, 21:14:21 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 May 2025, 22:15:24 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
