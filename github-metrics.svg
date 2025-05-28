@@ -1490,7 +1490,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>manga-download/hakuneko</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Manga &amp; Anime Downloader for Linux, Windows &amp; MacOS</div>
@@ -1543,7 +1543,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>shuttle-hq/shuttle</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Build &amp; ship backends without writing any infrastructure files.</div>
@@ -1596,7 +1596,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>serenity-rs/serenity</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Rust library for the Discord API.</div>
@@ -1969,7 +1969,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 May 2025, 11:18:51 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 May 2025, 12:14:31 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
